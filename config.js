@@ -10,11 +10,13 @@ const chalk = require('chalk')
 // Website Api
 global.APIs = {
 	zenz: 'https://zenzapi.xyz',
+	bin: 'https://api2.up.railway.app',
 }
 
 // Apikey Website Api
 global.APIKeys = {
 	'https://zenzapi.xyz': '47a6675ce0e2',
+	'https://api2.up.railway.app': 'APIKEY'
 }
 
 // Other
