@@ -15,6 +15,9 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
 WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 
+## UNTUK PENGUNA RAILWAY
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBntgp02%2FHisoka-Morou)
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
